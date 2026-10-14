@@ -8,5 +8,8 @@
     fetchData();
   }, []);
   // rest of component
+  return(
+   <div></div>
+  );
  }                                                                }
 export default App;
